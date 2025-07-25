@@ -3,6 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="mohamedashraff2222@gmail.com" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:Gmail_icon_%282020%29.svg" alt="mohamedashraff22" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mohameed-ashraf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedashraff22" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mohamedashraff22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamedashraff22" height="30" width="40" /></a>
 </p>
