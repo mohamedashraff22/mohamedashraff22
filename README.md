@@ -75,5 +75,3 @@ I'm an **AI/ML Engineer** passionate about turning cutting-edge research into re
 ![Profile Views](https://komarev.com/ghpvc/?username=mohamedashraff22&color=blueviolet&style=flat-square)
 
 </div>
-
-<br/>
