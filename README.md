@@ -71,9 +71,12 @@ Passionate about solving complex challenges, I turn innovative AI concepts into 
 
 ### 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedashraff22&show_icons=true&locale=en" alt="mohamedashraff22" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedashraff22&show_icons=true&locale=en&layout=compact" alt="mohamedashraff22" />
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedashraff22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mohamedashraff22&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedashraff22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+</div>
