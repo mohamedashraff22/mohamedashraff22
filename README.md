@@ -22,7 +22,6 @@ I'm an **AI/ML Engineer** passionate about turning cutting-edge research into re
 * **RAG Systems:** Augmenting LLMs with real-time knowledge retrieval.
 * **Full-Stack AI:** Taking projects from Jupyter notebooks to Dockerized production apps.
 
-<br/>
 
 ## 🌐 Let's Connect
 
@@ -38,7 +37,6 @@ I'm an **AI/ML Engineer** passionate about turning cutting-edge research into re
   </a>
 </div>
 
-<br/>
 
 ## 🛠️ Tech Stack
 
@@ -48,19 +46,13 @@ I'm an **AI/ML Engineer** passionate about turning cutting-edge research into re
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-<br>
-
 **AI & DATA SCIENCE**
 <br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
-<br>
-
 **GEN AI & NLP**
 <br>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-white?style=for-the-badge&logo=ollama&logoColor=black" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-
-<br>
 
 
 **BACKEND & DEPLOYMENT**
@@ -69,7 +61,6 @@ I'm an **AI/ML Engineer** passionate about turning cutting-edge research into re
 
 </div>
 
-<br/>
 
 ## 📈 GitHub Activity
 
@@ -80,6 +71,8 @@ I'm an **AI/ML Engineer** passionate about turning cutting-edge research into re
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mohamedashraff22&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedashraff22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![Profile Views](https://komarev.com/ghpvc/?username=mohamedashraff22&color=blueviolet&style=flat-square)
 
 </div>
 
