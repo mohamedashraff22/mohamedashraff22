@@ -70,7 +70,7 @@ I'm an **AI/ML Engineer** passionate about turning cutting-edge research into re
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mohamedashraff22&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedashraff22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedashraff22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=jupyter%20notebook)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohamedashraff22&color=blueviolet&style=flat-square)
 
