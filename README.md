@@ -32,9 +32,6 @@ I'm an **AI/ML Engineer** passionate about turning cutting-edge research into re
   <a href="https://www.linkedin.com/in/mohameed-ashraf/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/mohamedashraff22/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35" alt="LeetCode" />
-  </a>
 </div>
 
 
