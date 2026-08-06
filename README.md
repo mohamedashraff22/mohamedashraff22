@@ -11,14 +11,15 @@
 </div>
 
 ---
+
 ## 👨‍💻 About Me
-I'm an **AI Engineer** specializing in **Generative AI, LLMs, RAG systems, and autonomous AI agents** — building production-grade systems that solve real problems, not just lab experiments.
+I'm an **AI Engineer** specializing in **Generative AI, LLMs, RAG systems, and autonomous AI agents** — with hands-on experience shipping production-grade AI to real users, not just notebooks. I build multi-agent systems with **Google ADK** and **LangGraph**, fine-tune LLMs and VLMs for specific domains, and care most about the part that makes AI actually reliable: grounding, guardrails, and evaluation. I also work deeply in **Arabic NLP** and **Computer Vision**, building AI that genuinely works in Arabic — not just English.
 
 ### 🎯 Core Expertise
-* **RAG Systems:** Hybrid retrieval and grounded generation, evaluated with RAGAS.
-* **AI Agents:** Multi-agent orchestration with **Google ADK** and **LangGraph** for production chatbots.
-* **LLM & VLM Fine-Tuning:** LoRA/QLoRA/GRPO for domain-specific models.
-* **Full-Stack AI:** **FastAPI**, **Docker**, **PostgreSQL**, **Qdrant/pgvector** — from prototype to production.
+* **RAG Systems:** Hybrid retrieval (dense + keyword), reranking, and grounded generation — evaluated with RAGAS, not guesswork.
+* **AI Agents:** Multi-agent orchestration with **Google ADK** and **LangGraph** — tool use, guardrails, memory for production chatbots.
+* **LLM & VLM Fine-Tuning:** LoRA/QLoRA/GRPO for domain-specific models — including building datasets from scratch when none exist.
+* **Full-Stack AI Deployment:** **FastAPI**, **Docker**, **PostgreSQL**, **Qdrant/pgvector** — from prototype to crash-safe, monitored production systems.
 
 ## 🌐 Let's Connect
 
