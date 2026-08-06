@@ -8,6 +8,8 @@
 
 ### 🚀 AI Engineer | Shipping AI That Actually Works
 
+**🌐 Portfolio: [mohamed-ashraf-ai.vercel.app](https://mohamed-ashraf-ai.vercel.app/)**
+
 </div>
 
 ---
@@ -24,6 +26,9 @@ I'm an **AI Engineer** specializing in **Generative AI, LLMs, RAG systems, and a
 ## 🌐 Let's Connect
 
 <div align="center">
+  <a href="https://mohamed-ashraf-ai.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35" alt="Portfolio" />
+  </a>
   <a href="mailto:mohamedashraff2222@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
   </a>
