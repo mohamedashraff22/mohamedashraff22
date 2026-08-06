@@ -11,17 +11,14 @@
 </div>
 
 ---
-
 ## 👨‍💻 About Me
-
-I'm an **AI/ML Engineer** passionate about turning cutting-edge research into real-world solutions. My sweet spot is building end-to-end systems that combine **Deep Learning**, **NLP**, and **RAG architectures** to solve actual problems—moving beyond lab experiments to deployed applications.
+I'm an **AI Engineer** specializing in **Generative AI, LLMs, RAG systems, and autonomous AI agents** — building production-grade systems that solve real problems, not just lab experiments.
 
 ### 🎯 Core Expertise
-* **Machine Learning & DL:** Building models that learn and adapt (CNNs, RNNs, Transformers).
-* **NLP & GenAI:** Sentiment analysis, text generation, and Large Language Models.
-* **RAG Systems:** Augmenting LLMs with real-time knowledge retrieval.
-* **Full-Stack AI:** Taking projects from Jupyter notebooks to Dockerized production apps.
-
+* **RAG Systems:** Hybrid retrieval and grounded generation, evaluated with RAGAS.
+* **AI Agents:** Multi-agent orchestration with **Google ADK** and **LangGraph** for production chatbots.
+* **LLM & VLM Fine-Tuning:** LoRA/QLoRA/GRPO for domain-specific models.
+* **Full-Stack AI:** **FastAPI**, **Docker**, **PostgreSQL**, **Qdrant/pgvector** — from prototype to production.
 
 ## 🌐 Let's Connect
 
