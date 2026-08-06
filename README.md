@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=3572A5&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;Deep+Learning+Enthusiast;NLP+%26+RAG+Specialist;Building+Production-Ready+AI" alt="Typing SVG" />
 </a>
 
-### 🚀 Intelligent Systems Student | Shipping AI That Actually Works
+### 🚀 AI Engineer | Shipping AI That Actually Works
 
 </div>
 
